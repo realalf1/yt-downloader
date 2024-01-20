@@ -1,7 +1,7 @@
 ### <div align="center">🎥 Youtube Downloader</div>
 
 ### 🧾 Description
-This repository is a intended for learning purposes. I created this tool from python module called pytube which is lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos. Under Maintenance!
+This repository is a intended for learning purposes. I created this tool from python module called pytube which is lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos. Under Maintenance! Documentation: <a href="https://pytube.io/en/latest/" target="_blank">pytube</a>
 
 ### 🔎 Depedency
 - [x] pytube
