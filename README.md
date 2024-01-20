@@ -8,6 +8,6 @@ This repository is a intended for learning purposes. I created this tool from py
 
 ### 🪶 Features
 - [x] Get Youtube Videos Title
-- [x] soon 
+- [x] Get Youtube Thumbnail URL
 
 ### <div align="center">Happy Hacking & Learning</div>
