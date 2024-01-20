@@ -6,4 +6,8 @@ This repository is a intended for learning purposes. I created this tool from py
 ### 🔎 Depedency
 - [x] pytube
 
+### 🪶 Features
+- [x] Get Youtube Videos Title
+- [x] soon 
+
 ### <div align="center">Happy Hacking & Learning</div>
